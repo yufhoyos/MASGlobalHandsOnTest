@@ -1,4 +1,6 @@
-﻿using System;
+﻿using Newtonsoft.Json;
+using Newtonsoft.Json.Converters;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
@@ -12,6 +14,8 @@ namespace Model
         string RoleName { get; set; }
         string RoleDescription { get; set; }
         decimal Salary { get; set; }
+
+        [JsonConverter(typeof(StringEnumConverter))]
         EmployeeContractType ContractType { get; set; }
         decimal AnnualSalary { get; set; }
     }
