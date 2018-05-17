@@ -1,0 +1,14 @@
+D:\demos\MASGlobalHandsOnTest\MasGlobalTest\Bussiness\bin\Debug\netcoreapp2.0\Business.deps.json
+D:\demos\MASGlobalHandsOnTest\MasGlobalTest\Bussiness\bin\Debug\netcoreapp2.0\Business.dll
+D:\demos\MASGlobalHandsOnTest\MasGlobalTest\Bussiness\bin\Debug\netcoreapp2.0\Business.pdb
+D:\demos\MASGlobalHandsOnTest\MasGlobalTest\Bussiness\bin\Debug\netcoreapp2.0\Data.dll
+D:\demos\MASGlobalHandsOnTest\MasGlobalTest\Bussiness\bin\Debug\netcoreapp2.0\Model.dll
+D:\demos\MASGlobalHandsOnTest\MasGlobalTest\Bussiness\bin\Debug\netcoreapp2.0\Data.pdb
+D:\demos\MASGlobalHandsOnTest\MasGlobalTest\Bussiness\bin\Debug\netcoreapp2.0\Model.pdb
+D:\demos\MASGlobalHandsOnTest\MasGlobalTest\Bussiness\obj\Debug\netcoreapp2.0\Business.csprojAssemblyReference.cache
+D:\demos\MASGlobalHandsOnTest\MasGlobalTest\Bussiness\obj\Debug\netcoreapp2.0\Business.csproj.CoreCompileInputs.cache
+D:\demos\MASGlobalHandsOnTest\MasGlobalTest\Bussiness\obj\Debug\netcoreapp2.0\Business.AssemblyInfoInputs.cache
+D:\demos\MASGlobalHandsOnTest\MasGlobalTest\Bussiness\obj\Debug\netcoreapp2.0\Business.AssemblyInfo.cs
+D:\demos\MASGlobalHandsOnTest\MasGlobalTest\Bussiness\obj\Debug\netcoreapp2.0\Business.csproj.CopyComplete
+D:\demos\MASGlobalHandsOnTest\MasGlobalTest\Bussiness\obj\Debug\netcoreapp2.0\Business.dll
+D:\demos\MASGlobalHandsOnTest\MasGlobalTest\Bussiness\obj\Debug\netcoreapp2.0\Business.pdb

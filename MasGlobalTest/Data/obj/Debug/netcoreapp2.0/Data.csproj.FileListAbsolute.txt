@@ -1,0 +1,12 @@
+D:\demos\MASGlobalHandsOnTest\MasGlobalTest\Data\bin\Debug\netcoreapp2.0\Data.deps.json
+D:\demos\MASGlobalHandsOnTest\MasGlobalTest\Data\bin\Debug\netcoreapp2.0\Data.dll
+D:\demos\MASGlobalHandsOnTest\MasGlobalTest\Data\bin\Debug\netcoreapp2.0\Data.pdb
+D:\demos\MASGlobalHandsOnTest\MasGlobalTest\Data\bin\Debug\netcoreapp2.0\Model.dll
+D:\demos\MASGlobalHandsOnTest\MasGlobalTest\Data\bin\Debug\netcoreapp2.0\Model.pdb
+D:\demos\MASGlobalHandsOnTest\MasGlobalTest\Data\obj\Debug\netcoreapp2.0\Data.csprojAssemblyReference.cache
+D:\demos\MASGlobalHandsOnTest\MasGlobalTest\Data\obj\Debug\netcoreapp2.0\Data.csproj.CoreCompileInputs.cache
+D:\demos\MASGlobalHandsOnTest\MasGlobalTest\Data\obj\Debug\netcoreapp2.0\Data.AssemblyInfoInputs.cache
+D:\demos\MASGlobalHandsOnTest\MasGlobalTest\Data\obj\Debug\netcoreapp2.0\Data.AssemblyInfo.cs
+D:\demos\MASGlobalHandsOnTest\MasGlobalTest\Data\obj\Debug\netcoreapp2.0\Data.csproj.CopyComplete
+D:\demos\MASGlobalHandsOnTest\MasGlobalTest\Data\obj\Debug\netcoreapp2.0\Data.dll
+D:\demos\MASGlobalHandsOnTest\MasGlobalTest\Data\obj\Debug\netcoreapp2.0\Data.pdb
